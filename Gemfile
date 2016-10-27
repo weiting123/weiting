@@ -82,3 +82,4 @@ end
 gem 'rails-i18n', '~> 5.0'
 gem 'paranoia', '~> 2.2'
 gem 'enumerize', '~> 2.0'
+gem 'whenever', '~> 0.9.7'
