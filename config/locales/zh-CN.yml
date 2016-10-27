@@ -3,3 +3,4 @@ zh-CN:
   activerecord:
     models:
     attributes:
+  enumerize:
